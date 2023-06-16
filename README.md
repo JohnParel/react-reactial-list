@@ -2,10 +2,7 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
-
-on terminal please run this code:
-`npm install`
+on terminal, please run this code first:`npm install`
 
 this will install all the dependency.
 
